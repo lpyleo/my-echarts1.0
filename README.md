@@ -1,4 +1,4 @@
-# my-echarts1.0
+# my-echarts
 
 ## Project setup
 ```
